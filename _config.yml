@@ -10,12 +10,12 @@ gems: [jekyll-paginate]
 title: Github Blog Template
 url: http://MrLZZhang.github.io
 feed: /atom.xml
-author_info: <a href="http://MrLZZhang.github.io/">taotaoli</a>
+author_info: <a href="personalprofile/index.xml">MrLZZhang</a>
 
 myblog:
   gavatar: images/2.jpg
   gpname: litaotao
-  linkedin: http://www.linkedin.com/in/taotaoli
+  linkedin: https://github.com/MrLZZhang/personalprofile/index.xml
   github: https://github.com/MrLZZhang
   email: mailto:zhanghailiang_1314@163.com
   coverimgs: []
