@@ -6,16 +6,15 @@ paginate: 8
 permalink: /:title
 encoding: UTF-8
 gems: [jekyll-paginate]
-
 title: Github Blog Template
 url: http://MrLZZhang.github.io
 feed: /atom.xml
 author_info: <a href="personalprofile/index.xml">MrLZZhang</a>
 
 myblog:
-  gavatar: images/2.jpg
+  gavatar: images/head.jpg
   gpname: litaotao
-  linkedin: https://github.com/MrLZZhang/personalprofile/index.xml
+  linkedin: personalprofile/index.html
   github: https://github.com/MrLZZhang
   email: mailto:zhanghailiang_1314@163.com
   coverimgs: []
